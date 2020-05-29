@@ -1,0 +1,1 @@
+# Generic hitori game
